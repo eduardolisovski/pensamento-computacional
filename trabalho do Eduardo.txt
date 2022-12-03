@@ -1,0 +1,16 @@
+<html>trabalho pensamento computacional 1-D<html>
+<head>
+<title> Acordeon scandalli SUPER VI LX </title>
+</head>
+<body>
+   <h1> Acordeon scandalli SUPER VI LX </h1>
+   <p> Sem duvidas esse acordeon é um dos mais completos do mundo,fabricadi pela empresa italiana scandalli no começo desse seculo ate os dias de hoje,o modelo SUPER VI LX vem equipado com quinta de voz no teclado e quinta de vox nos baixos,com duplo cassoto,que faz ter um tom maravilhoso!</p>
+<p> Mas também,é um dos mais caros do mundo,chegando a cem mil reais,mas vale a pena pra quem ganha dinheiro tocando em conjuntos e duplas,por ser muito completa! </p>
+
+
+
+
+
+
+
+
